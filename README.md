@@ -20,6 +20,11 @@ git branch -v # Visualizar todos os branches + commit.
 git branch challenge-03 # Criar novo branch "challenge-03".
 
 git checkout challenge-03 # Trocar de branch.
+
+# ou resumido
+
+git checkout -b challenge-03 # Cria e troca para novo branch.  
+
 ```
 
 ## Stage area + nova versão (commit)
