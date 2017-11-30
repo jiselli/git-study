@@ -56,4 +56,6 @@ git checkout master
 git merge challenge-03
 ```
 
-##atalho para preview ctrl+shift+p
+## Atalho para preview ctrl+shift+
+
+> corrigindo a issue 2
