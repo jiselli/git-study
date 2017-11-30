@@ -64,3 +64,4 @@ git merge challenge-03
 ## Atalho para preview ctrl+shift+
 
 > corrigindo a issue 2
+> Fechando issue 1
