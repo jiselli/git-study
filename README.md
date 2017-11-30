@@ -39,6 +39,8 @@ git commit -m 'initial commit'
 ```bash
 git remote -v
 
+git remote add {link} # adiciona remoto repositorio  
+
 git push origin challenge-03
 ```
 
